@@ -1,1 +1,1 @@
-# .github
+# Kora Studios LLC.
